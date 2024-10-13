@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Flutter<br>Competitive Programming enthusiast<br>How to reach me patrarafles@students.usu.ac.id.com
+I'm currently learning Mobile Development<br>Competitive Programming Enthusiast<br>How to reach me patrarafles@students.usu.ac.id
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raples.wojtyla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hacked) 
