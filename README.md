@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning Mobile Development<br>Competitive Programming Enthusiast<br>How to reach me patrarafles@students.usu.ac.id
+I'm currently learning Mobile Development<br>Competitive Programming Enthusiast<br>
+How to reach me <a href="mailto:patrarafles@students.usu.ac.id" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raples.wojtyla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hacked) 
