@@ -63,7 +63,7 @@ Competitive Programming Enthusiast<br>
 
 <br clear="both">
 
-<!-- <img src="https://raw.githubusercontent.com/RaplesWojtyla/RaplesWojtyla/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/RaplesWojtyla/RaplesWojtyla/output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
