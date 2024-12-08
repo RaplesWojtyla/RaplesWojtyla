@@ -1,11 +1,11 @@
+<img src="https://raw.githubusercontent.com/RaplesWojtyla/RaplesWojtyla/output/snake.svg" alt="Snake animation" />
+
 # 💫 About Me:
 I'm a second year student at the Universitas Sumatera Utara<br>
 I'm currently learning Mobile Development<br>
 Competitive Programming Enthusiast<br>
 
 ###
-
-<img src="https://raw.githubusercontent.com/RaplesWojtyla/RaplesWojtyla/output/snake.svg" alt="Snake animation" />
 
 ###
 
