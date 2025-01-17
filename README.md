@@ -4,8 +4,18 @@
 
 # 💫 About Me:
 I'm a second year student at the Universitas Sumatera Utara<br>
-I'm currently learning Mobile Development<br>
-Competitive Programming Enthusiast<br>
+I'm currently learning Mobile Development, Web Development (MERN), AI, and more! <br>
+
+Here are some of my interests:
+
+- 🌐 Web Development
+- 📱 Mobile Development 
+- 🤖 Artificial Inteligence
+- ⚙️ Machine Learning
+- 🖥️ Software Development
+- 👨‍💻 Competitive Programming
+- 🎮 Gaming
+- 🎵 Music
 
 ###
 
