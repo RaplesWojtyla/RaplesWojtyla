@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/RaplesWojtyla/RaplesWojtyla/output/snake.svg" alt="Snake animation" />
-
-###
-
 # 💫 About Me:
 I'm Patra Rafles Wostyla Sinaga, a second year student at the Universitas Sumatera Utara<br>
 🌱 I'm currently learning Mobile Development, Web Development (MERN), AI, and more! <br>
@@ -92,7 +88,7 @@ Here are some of my interests:
 
 <br clear="both">
 
-
+<img src="https://raw.githubusercontent.com/RaplesWojtyla/RaplesWojtyla/output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
