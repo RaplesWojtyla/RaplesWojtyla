@@ -32,3 +32,25 @@
   "hobbies": ["Music", "Solving Algorithms", "Gaming"],
   "status": "Open to Collaboration 🚀"
 }
+```
+---
+
+### 🛠️ The Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,js,ts,nodejs,flutter,laravel&perline=6" />
+  <br/>
+  
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+    <a href="https://neon.tech/" target="_blank">
+      <img src="https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=neon&logoColor=black&height=40" height="48" alt="NeonDB" />
+    </a>
+  </div>
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/RaplesWojtyla/RaplesWojtyla/output/snake.svg" alt="Snake animation" />
+</p>
+
