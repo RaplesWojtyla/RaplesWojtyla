@@ -38,7 +38,7 @@
 ### 🛠️ The Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,js,ts,nodejs,flutter,laravel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=go,nextjs,js,ts,nodejs,flutter,laravel&perline=7" />
   <br/>
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
